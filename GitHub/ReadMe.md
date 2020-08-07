@@ -6,15 +6,21 @@ We have two offers at the moment:
 
 
 ## Tag Cloud ##
-- DevOps/ALM 
-- Team Foundation server/TFS
-- Azure DevOps
-- VSS/Source Safe
-- SAFe, Scrum, Agile
-- Continuous Integration/CI
-- Continuous Deployment/CD
-- Developer Velocity
-- Software architecture
-- Subversion 
-- Team City, Jenkins, Octopus Deploy
-- Jira
+- DevOps; 10
+- ALM; 8
+- Team Foundation server; 10
+- TFS; 10
+- Azure DevOps; 10
+- VSS/Source Safe; 8
+- SAFe; 10
+- Scrum; 10
+- Agile; 10
+- Continuous Integration/CI; 10
+- Continuous Deployment/CD; 10
+- Developer Velocity; 10
+- Software architecture; 10
+- Subversion; 5 
+- Team City; 4
+- Jenkins; 4
+- Octopus Deploy; 8
+- Jira; 5
