@@ -4,7 +4,6 @@ We have two offers at the moment:
 - [GitHub as a managed service](GitHub-as-a-managed-service.md)
 - [Migrate from Azure DevOps to GitHub](Migrate-from-Azure-DevOps-to-GitHub.md)
 
-The rest are templates and Samples
 
 ## Tag Cloud ##
 - DevOps/ALM 
