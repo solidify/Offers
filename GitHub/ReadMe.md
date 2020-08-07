@@ -5,7 +5,8 @@ We have two offers at the moment:
 - [Migrate from Azure DevOps to GitHub](Migrate-from-Azure-DevOps-to-GitHub.md)
 
 
-## Tag Cloud ##
+![TagCloud](Images/TagCloud.png)
+
 - DevOps; 10
 - ALM; 8
 - Team Foundation server; 10
@@ -24,3 +25,5 @@ We have two offers at the moment:
 - Jenkins; 4
 - Octopus Deploy; 8
 - Jira; 5
+
+From https://wordart.com/
