@@ -5,7 +5,7 @@ We have two offers at the moment:
 - [Migrate from Azure DevOps to GitHub](Migrate-from-Azure-DevOps-to-GitHub.md)
 
 
-#Tag Cloud #
+## Tag Cloud ##
 
 ![TagCloud](Images/TagCloud.png)
 
