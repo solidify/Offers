@@ -21,7 +21,7 @@ The goal is to help your team gain and maintain software excellence with as low 
 - We provide training for your development teams depending on needs
 - Most of our work will be done remotely, but some meetings or trainings might be done IRL
 - We work both proactively to have your GitHub platform in good shape, and reactively and help you with support questions
-- You host GitHub in Azure or in your own datacenter and we take care of the platform. 
+- You host GitHub in Azure or in your own data center and we take care of the platform. 
 \
 ## Delivery Methods\
 \
