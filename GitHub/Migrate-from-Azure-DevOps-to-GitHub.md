@@ -32,6 +32,7 @@ GitHub Enterprise is Microsoft’s platform of choice for software development a
 - Analysis, we analyze your Azure DevOps organzation and deliver a plan and time needed for the GitHub migration.  
 - Training, we train your team to use the GitHub platform
 - Migration and adoption, if needed help you set up the GitHub. platform. Selected source code, build definitions and other artifacts are migrated to GitHub
+- CI/CD, this focuses on using GitHub Actions or Azure Pipelines for CI/CD and other automation. Examples of other automations can be automate deployments of new environments. All to improve your development process from commit to application in production process, reduce cycle times and increase the quality of your software.
 - Mentoring, after the migration/adoption is complete, we can support and mentor your teams to ensure they're fully equipped to handle all upcoming challenges
 \
 
